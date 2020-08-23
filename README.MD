@@ -24,3 +24,4 @@ Hi, I'm Ana 👩‍💻.
 
 <SECRET GUEST BOOK>
 <ooooooooooooooooo>
+<2020-08-23 -- damn you quarentine for making us not able to gather our friends for some drinks -- alemedeiros>
