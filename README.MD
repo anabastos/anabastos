@@ -11,7 +11,6 @@ Hi, I'm Ana 👩‍💻.
 # Gemini ♊️ with an ascendant in scorpio ♏️
 ! Speaker, community manager and shitposter
 ```
-<br>
 <code><a href="https://www.instagram.com/reptilianprincess/" target="_blank"><img height="30" border=2 src="https://image.flaticon.com/icons/svg/174/174855.svg"></a> 
 <a href="https://twitter.com/naluhh" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733579.svg"></a>
 <a href="https://www.linkedin.com/in/anabastos8/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
