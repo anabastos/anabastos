@@ -23,3 +23,8 @@ Hi, I'm Ana 👩‍💻.
 
 <SECRET GUEST BOOK>
 <ooooooooooooooooo>
+<ooooooooooooooooo
+|2020-08-23
+| damn this quarentine for making us unable to gather our friends for some drinks 
+| miss ya!
+|-- alemedeiros>
