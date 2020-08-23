@@ -8,8 +8,8 @@ Hi, I'm Ana 👩‍💻.
 @@I'm a software engineer at Nubank@@
 + Living in São Paulo, Brazil 🇧🇷.
 - 25 years old
-# Gemini ♊️ with an ascendant in scorpio ♏️
 ! Speaker, community manager and shitposter
+# 📖 Programming languages, functional, web development
 ```
 <code><a href="https://www.instagram.com/reptilianprincess/" target="_blank"><img height="30" border=2 src="https://image.flaticon.com/icons/svg/174/174855.svg"></a> 
 <a href="https://twitter.com/naluhh" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733579.svg"></a>
