@@ -15,7 +15,6 @@ Hi, I'm Ana 👩‍💻.
   <a href="https://www.linkedin.com/in/anabastos8/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
   <a href="https://www.twitch.tv/anabastosdev" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733577.svg"></a>
   <a href="https://www.meetup.com/members/207120200/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111520.svg"></a>
-  <a href="https://github.com/anabastos/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733579.svg"></a>
 </code>
 
 <Youre doing great>
