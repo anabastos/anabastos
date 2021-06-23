@@ -27,4 +27,8 @@ Hi, I'm Ana 👩‍💻.
 |2020-08-23
 | damn this quarentine for making us unable to gather our friends for some drinks 
 | miss ya!
-|-- alemedeiros>
+|-- alemedeiros
+|2021-06-23
+| https://i2.paste.pics/CXGY6.png
+| sdds, Aninha! ❤️
+|-- nic>
