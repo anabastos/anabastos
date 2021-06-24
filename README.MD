@@ -6,8 +6,8 @@ Hi, I'm Ana 👩‍💻.
 
 @@I'm a software engineer at Nubank@@
 + Living in São Paulo, Brazil 🇧🇷.
-- 25 years old
-! Speaker, community manager and shitposter
+- 26 years old
+! sometimes speaker, sometimes community manager, always shitposter
 # 📖 Programming languages, functional, web development
 ```
 <code><a href="https://www.instagram.com/reptilianprincess/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a> 
