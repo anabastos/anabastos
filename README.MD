@@ -29,6 +29,6 @@ Hi, I'm Ana 👩‍💻.
 | miss ya!
 |-- alemedeiros
 |2021-06-23
-| https://i2.paste.pics/CXGY6.png
+| https://user-images.githubusercontent.com/66042/128732266-55fc8c78-3bd4-4a99-91fb-521e9ceba127.jpeg
 | sdds, Aninha! ❤️
 |-- nic>
