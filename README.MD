@@ -4,7 +4,7 @@
 ```diff
 Hi, I'm Ana 👩‍💻.
 
-@@I'm a software engineer at Nubank@@
+@@I'm a software engineer@@
 + Living in São Paulo, Brazil 🇧🇷.
 - 26 years old
 ! sometimes speaker, sometimes community manager, always shitposter
