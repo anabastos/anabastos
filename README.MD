@@ -6,7 +6,7 @@ Hi, I'm Ana 👩‍💻.
 
 @@I'm a software engineer@@
 + Living in São Paulo, Brazil 🇧🇷.
-- 27 years old
+- 28 years old
 ! sometimes conf speaker, always shitposter
 # 📖 Programming languages, functional, web development
 ```
